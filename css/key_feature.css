@@ -1,0 +1,14 @@
+.key_feature h1{
+    color: #002B67; 
+    font-size: 50px; 
+    text-align: center;
+     margin-top: 50px; 
+     font: normal normal 800 50px/61px Montserrat;
+}
+
+.key_feature p{
+    color: black;
+    font-size: 25px; 
+    text-align: center;
+    font: normal normal medium 30px/45px Montserrat;
+}
